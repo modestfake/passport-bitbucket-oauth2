@@ -1,14 +1,14 @@
 {
-  "name": "passport-bitbucket-oauth2",
-  "version": "0.1.2",
+  "name": "@atlassian-partner-engineering/passport-bitbucket-oauth2",
+  "version": "0.0.1",
   "description": "Bitbucket OAuth2 authentication strategy for Passport.",
   "keywords": ["passport", "bitbucket", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bithound/passport-bitbucket-oauth2.git"
+    "url": "git://github.com/modestfake/passport-bitbucket-oauth2.git"
   },
   "bugs": {
-    "url": "http://github.com/bithound/passport-bitbucket-oauth2/issues"
+    "url": "http://github.com/modestfake/passport-bitbucket-oauth2/issues"
   },
   "author": {
     "name": "Gord Tanner",
@@ -17,7 +17,7 @@
   },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib/passport-bitbucket",
   "dependencies": {
